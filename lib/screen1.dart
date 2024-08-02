@@ -42,6 +42,7 @@ class _Screen1State extends State<Screen1> {
                   height: 300,
                   width: 500,
                   decoration: BoxDecoration(color: Colors.amber),
+                  child: Image.asset('assets/1.jpg'),
                 ),
               ],
             ),
